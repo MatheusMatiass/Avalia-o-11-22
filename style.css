@@ -16,7 +16,11 @@ p {
 
 }
 
-em strong {
+em {
     color:rgb(230, 10, 10)
+}
+
+strog {
+    color: rgb(238, 0, 0);
 }
 
